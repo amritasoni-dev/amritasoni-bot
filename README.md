@@ -16,8 +16,8 @@ I'm learning to code before college starts and documenting the journey.
 - 💬 **Ask me about:** Python basics, getting started with coding
 
 ### 🚀 Featured Projects
-- [Random Password Generator](https://github.com/amritasoni-bot/Random-Password-Generator) — Secure password generator with custom options
-- [Random Number Guessing Game](https://github.com/amritasoni-bot/Random-Number-Guessing-Game) — Interactive CLI game with scoring
+- [Random Password Generator](https://github.com/amritasoni-dev/Random-Password-Generator) — Secure password generator with custom options
+- [Random Number Guessing Game](https://github.com/amritasoni-dev/Random-Number-Guessing-Game) — Interactive CLI game with scoring
 
 ### 📊 GitHub Stats
 ![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritasoni-dev&show_icons=true&theme=dark)
