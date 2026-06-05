@@ -14,7 +14,7 @@ I'm learning to code before college starts and documenting the journey.
 - [Random Number Guessing Game](https://github.com/amritasoni-bot/Random-Number-Guessing-Game) — Interactive CLI game with scoring
 
 ### 📊 GitHub Stats
-![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritasoni-bot&show_icons=true&theme=tokyonight)
+![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritasoni-dev&show_icons=true&theme=dark)
 
 ---
-⭐️ From [amritasoni-bot](https://github.com/amritasoni-bot)
+⭐️ From [@amritasoni-dev](https://github.com/amritasoni-dev)
