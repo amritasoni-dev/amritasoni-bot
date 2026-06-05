@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amrita Soni 👋
 
-<!--
-**amritasoni-bot/amritasoni-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Incoming CS-AI Student | Python Developer
 
-Here are some ideas to get you started:
+I'm learning to code before college starts and documenting the journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently building:** Python projects to prep for CS-AI
+- 🌱 **Learning:** Data Structures & Algorithms, AI/ML fundamentals
+- 🎯 **2026 Goals:** Master DSA + contribute to open source
+- 💬 **Ask me about:** Python basics, getting started with coding
+
+### 🚀 Featured Projects
+- [Random Password Generator](https://github.com/amritasoni-bot/Random-Password-Generator) — Secure password generator with custom options
+- [Random Number Guessing Game](https://github.com/amritasoni-bot/Random-Number-Guessing-Game) — Interactive CLI game with scoring
+
+### 📊 GitHub Stats
+![Amrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritasoni-bot&show_icons=true&theme=tokyonight)
+
+---
+⭐️ From [amritasoni-bot](https://github.com/amritasoni-bot)
